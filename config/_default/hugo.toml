@@ -3,9 +3,9 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://localhost:1313"
+baseURL = "https://zepeng-chen.github.io/"
 defaultContentLanguage = "en"
-disableLanguages = [] #to allow translation work requiring shipping to production
+disableLanguages = []
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
@@ -18,7 +18,7 @@ buildFuture = false
 
 enableEmoji = true
 
-googleAnalytics = "G-PEDMYR1V0K"
+# googleAnalytics = ""
 
 [pagination]
   pagerSize = 102
@@ -86,4 +86,3 @@ googleAnalytics = "G-PEDMYR1V0K"
       #   - Windows CMD: set "HUGO_DISABLELANGUAGES=it ja zh-cn" && npm run example:core
       #   - Windows PowerShell: $env:HUGO_DISABLELANGUAGES="it ja zh-cn"; npm run example:core
       lang = 'en'
-theme = "blowfish"

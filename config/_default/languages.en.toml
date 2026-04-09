@@ -1,23 +1,21 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Zepeng Chen"
 
 [params]
-  displayName = "English"
+  displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/blowfish_logo_transparent.png"
-  description = "A powerful, lightweight theme for Hugo."
+  description = "SRE @ TikTok | Agent Developer | M.S. Statistics @ NUS"
 
 [params.author]
-  name = "Blowfish"
-  email = "nuno@n9o.xyz"
-  image = "img/blowfish_logo.png"
-  headline = "A powerful, lightweight theme for Hugo."
-  bio = "A powerful, lightweight theme for Hugo."
+  name = "Zepeng Chen"
+  image = "img/avatar.jpg"
+  headline = "SRE @ TikTok | Agent Developer | M.S. Statistics @ NUS"
+  bio = "Site Reliability Engineer at TikTok, focusing on Agent development. Currently pursuing M.S. in Statistics at the National University of Singapore."
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { github = "https://github.com/zepeng-chen" },
+    { linkedin = "https://www.linkedin.com/in/zepeng-charles-chen-49412b181/" },
   ]
